@@ -1,4 +1,4 @@
-min: xi_1 * distancia + x1_i * distancia + xi_2 * distancia ... 
+min: xi_1 * distancia + x1_i * distancia + xi_2 * distancia ...;
 
 // Restricoes 
 
@@ -18,7 +18,7 @@ x1_i + x2_i + x3_i + x4_i + x5_i + x6_i + x7_i + x8_i + x9_i + x10_i + x11_i + x
 
 // outros :
 
-x1_i + x1_2 + x1_3 ... + x1_f  - xi_1 - x2_1 - x3_1 ... - xf_1 = 0
+xi_1 + x2_1 + x3_1 + x4_1 + x5_1 + x6_1 + x7_1 + x8_1 + x9_1 + x10_1 + x11_1 + x12_1 + x13_11 + x1_f - x1_i - x1_2 - x1_3 - x1_4 - x1_5 - x1_6 - x1_7 - x1_8 - x1_9 - x1_10 - x1_11 - x1_12 - x1_13 - x1_f = 0;
 ...
 
 // em F :
