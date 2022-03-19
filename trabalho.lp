@@ -1,4 +1,4 @@
-min: xi_1 * distancia + ... 
+min: xi_1 * distancia + x1_i * distancia + xi_2 * distancia ... 
 
 // Restricoes 
 
@@ -15,16 +15,16 @@ x12_f + xf_12 > 0;
 
 // em I :
 
-x*_i - xi_* < 0
+x1_i + x2_i ... - xi_1 - xi_2 = -1
 
 // outros :
-// EM A
 
-xB_A - xA_B = 0
+x1_i + x1_2 + x1_3 ... + x1_f  - xi_1 - x2_1 - x3_1 ... - xf_1 = 0
+...
 
 // em F :
 
-x*_f - xf_* > 0
+xi_f + x1_f + x2_f ... - xi_f - xf_1 - xf_2 = 1
 
 // INTEIROS
 
