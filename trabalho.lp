@@ -14,8 +14,7 @@ x12_f + xf_12 > 0;
 // EVITAR CICLOS
 
 // em I :
-
-x1_i + x2_i ... - xi_1 - xi_2 = -1
+x1_i + x2_i + x3_i + x4_i + x5_i + x6_i + x7_i + x8_i + x9_i + x10_i + x11_i + x12_i + x13_i + xf_i - xi_1 - xi_2 - xi_3 - xi_4 - xi_5 - xi_6 - xi_7 - xi_8 - xi_9 - xi_10 - xi_11 - xi_12 - xi_13 - xi_f = -1;
 
 // outros :
 
@@ -24,7 +23,7 @@ x1_i + x1_2 + x1_3 ... + x1_f  - xi_1 - x2_1 - x3_1 ... - xf_1 = 0
 
 // em F :
 
-xi_f + x1_f + x2_f ... - xi_f - xf_1 - xf_2 = 1
+xi_f + x1_f + x2_f + x3_f + x4_f + x5_f + x6_f + x7_f + x8_f + x9_f + x10_f + + x11_f + x12_f + x13_f - xf_i - xf_1 - xf_2 - xf_3 - xf_4 - xf_5 - xf_6 - xf_7 - xf_8 - xf_9 - xf_10 - xf_11 - xf_12 - xf_13 = 1;
 
 // INTEIROS
 
